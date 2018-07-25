@@ -1,1 +1,2 @@
 mygit
+have a test!
